@@ -1,0 +1,6 @@
+[package]
+name = "1dna"
+version = "0.1.0"
+authors = ["Galaxy <jonnym22@gmail.com>"]
+
+[dependencies]
